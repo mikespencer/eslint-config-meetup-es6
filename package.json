@@ -15,11 +15,12 @@
   "author": "Mike Spencer <mspencer@meetup.com>",
   "license": "ISC",
   "peerDependencies": {
-    "eslint": ">= 3",
-    "eslint-config-meetup": ">= 1"
+    "eslint": ">= 3"
   },
   "devDependencies": {
     "eslint": "^3.8.1",
-    "eslint-config-meetup": "1.0.0"
+  },
+  "dependencies": {
+    "eslint-config-meetup": "^1.0.0"
   }
 }
