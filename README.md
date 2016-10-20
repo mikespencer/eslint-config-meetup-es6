@@ -1,7 +1,7 @@
 Meetup ESLint ES6 config
 
 ## Getting started
-`npm install --save-dev eslint eslint-plugin-react`
+`npm install --save-dev eslint eslint-config-meetup-es6`
 
 ## Usage
 ```js
