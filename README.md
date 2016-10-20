@@ -4,7 +4,7 @@ Meetup ESLint ES6 config
 `npm install --save-dev eslint eslint-plugin-react eslint-config-meetup`
 
 ## Usage
-```
+```js
 // eslint config
 {
   "extends": "meetup-es6"
