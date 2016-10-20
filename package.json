@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-meetup-es6",
+  "version": "0.0.1",
+  "description": "Meetup ESLint ES6 config",
+  "main": "index.js",
+  "repository": "https://github.com/meetup/eslint-config-meetup-es6",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Meetup",
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Mike Spencer <mspencer@meetup.com>",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 3",
+    "eslint-config-meetup": ">= 1"
+  },
+  "devDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-config-meetup": "1.0.0"
+  }
+}
